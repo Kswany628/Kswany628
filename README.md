@@ -13,24 +13,15 @@ My love for tech and everything involved with it has led me to develop a passion
 |-----------------------------------------------|----------------------------|
 | Alogorithim for file updates in python          | <a href="https://docs.google.com/document/d/1NOwt04p-MY25O0uLBpof8eZDDjdHIdlmTw-iBxLFkc0/edit?usp=drive_link">Google drive link
 | Applying filters for SQL enteries | <a href="https://docs.google.com/document/d/1v1WSSLvI9H3h5RGgWBBqqUv-kndp0zhJ5HxQdQsF8Qc/edit?usp=drive_link">Google drive link</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| FIle permissions in Linux         | <a href="https://docs.google.com/document/d/1v1WSSLvI9H3h5RGgWBBqqUv-kndp0zhJ5HxQdQsF8Qc/edit?usp=drive_link">Google drive link</a> |
+| Vulnerability assessment report      | <a href="https://docs.google.com/document/d/1rpiVDT5Q6M7xU0Y7iNn9pgP-xEjenmKiDYzk66sbvCc/edit?usp=drive_link&resourcekey=0-sIB7mp4kYDSJ9x8nvdCtgg">Google drive link</a> |
 
 ## Tools
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+   
 </div>
 
 ### SIEM
@@ -46,6 +37,3 @@ My love for tech and everything involved with it has led me to develop a passion
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />    
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
