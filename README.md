@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/kennethswany/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 # Introduction
-I'm confident my combination of technical aptitude and strong learning skills will make me a valuable asset to any cybersecurity,help desk,customer support team.
+I'm confident my combination of technical aptitude and strong learning skills will make me a valuable asset to any cybersecurity, help desk, and/or customer support team.
 
 ## Objective
 My love for tech and everything involved with it has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) but i am also willing to enter into a help desk postion.
